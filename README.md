@@ -42,7 +42,7 @@ sudo systemctl restart stubby && sudo systemctl status stubby
 
 Configure Pi-hole to use unbound as your recursive DNS server and untick any other upstream DNS Server:
 
-### Settings -> DNS -> Custom DNS Servers**
+### Settings -> DNS -> Custom DNS Servers
 
 ```bash
 127.0.0.1#5300
@@ -50,4 +50,4 @@ Configure Pi-hole to use unbound as your recursive DNS server and untick any oth
 
 Click save.
 
-![screenshot at 2025-03-31](https://imgur.com/y2bxIwN)
+![screenshot at 2025-03-31](https://i.imgur.com/y2bxIwN.png)
